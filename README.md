@@ -1,6 +1,7 @@
 # Frappong
 
-Bu proje benim ilk oyunum. Bir oyun yapma tutorial videosu izlenerek yapıldı, tabii ki tamamen bakarak değil. Oyun yerel bilgisayardan oynanabilen iki kişilik bir oyun olarak tasarlandı. Karşınızdaki kişi ile masa tenisine benzer bir oynadığınız oyun. 1. Oyuncu (Sol taraf) raketini **w** ile yukarıya, **s** ile aşağıya hareket ettiriyor. 2. Oyuncu (Sağ taraf) raketini klavyenin harfler ve numpad arasında bulunan **yukarı ok** tuşu ile yukarıya, **aşağı ok** tuşu ile aşağıya hareket ettiriyor. İlk önce *11* skora ulaşan oyuncu oyunun galibi oluyor.
+**Bu proje benim ilk oyunum. Bir oyun yapma tutorial videosu izlenerek yapıldı, tabii ki tamamen bakarak değil. Oyun yerel bilgisayardan oynanabilen iki kişilik bir oyun olarak tasarlandı. Karşınızdaki kişi ile masa tenisine benzer bir oynadığınız oyun. 1. Oyuncu (Sol taraf) raketini `w` ile yukarıya, `s` ile aşağıya hareket ettiriyor. 2. Oyuncu (Sağ taraf) raketini klavyenin harfler ve numpad arasında bulunan `yukarı ok` tuşu ile yukarıya, `aşağı ok` tuşu ile aşağıya hareket ettiriyor. İlk önce `11` skora ulaşan oyuncu oyunun galibi oluyor.**
+
 ## Bilgisayarınızda Çalıştırın
 
 Projeyi klonlayın
